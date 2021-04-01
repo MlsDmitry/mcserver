@@ -1,5 +1,5 @@
-build.debug/
-build.release/
-build/
-Xcode/
+build.debug/*
+build.release/*
+build/*
+Xcode/*
 
